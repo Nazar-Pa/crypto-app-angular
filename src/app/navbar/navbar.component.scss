@@ -1,0 +1,35 @@
+mat-tree{
+    background-color: #001529;
+    color: white;
+}
+
+mat-tree-node{
+    color: white;
+}
+
+button{
+    color: rgb(224, 45, 45);
+}
+
+.logo-container{
+    background-color: #001529;
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    width: 100%;
+    color: aliceblue;
+}
+
+.logo{
+    margin:0 0 0 15px;
+    font-size: 30px;
+    
+}
+.logo a{
+   color: white;
+}
+
+.icon-display {
+    transform: scale(2);
+    color: #dff329;
+ }
